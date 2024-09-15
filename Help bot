@@ -1,0 +1,15 @@
+/kall short for kick all, kicks every member in the server as long as you have permission.
+
+/ball short for ban all, bans every member in the server as long as you have permission.
+
+/rall rename_to short for rename all, renames every member in the server to the desired rename_to condition as long as you have permission.
+
+/mall message - short for message all, messages every member in a guild with a message of your choice.
+
+/dall condition short for delete all, deletes every condition stated. Conditions currently include; channels emojis and all. roles
+
+/destroy deletes everything possible, then bans every member in the server as long as you have permission.
+
+/users prints all users in guild/server.
+
+/channels prints all channels and their ids in guiild/server
